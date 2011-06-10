@@ -50,9 +50,6 @@ BLUR.Vector = function(x,y,z) {
 				this.z = ( tempx * -Math.sin(amount * RADIANS) ) + ( tempz * Math.cos(amount * RADIANS) );
 				break;
 			case 'z':
-				/*
-				 * TODO: Write 'z' rotation functionality. 
-				 */
 				break;
 			default:
 				alert('[BLUR.Vector] - Error: Please specify a valid axis for rotation, "' + axis + '" is not valid. ');
