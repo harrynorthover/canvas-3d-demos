@@ -1,8 +1,8 @@
-'canvas3d' is a selection of 3D HTML5 Canvas demos created using my 3D engine, Blur3D.
+'canvas3d' is a selection of 3D HTML5 Canvas demos created using my 3D engine, blur.js.
 
-Blur3D is located in 'engine/' and is still in its very early stages at the moment and not ready for production.
+Blur.js is located in 'engine/' and is still in its very early stages at the moment and not ready for production.
 
 All the demos I created are under 'test/'. 
 
-If you want to see my latest demo, one using Blur3D & Websockets then checkout Sketchpad - https://github.com/harrynorthover/sketchpad 
+If you want to see my latest demo, one using blur.js & Websockets then checkout Sketchpad - https://github.com/harrynorthover/sketchpad 
 
